@@ -1,4 +1,4 @@
-# [StoicKit v0.0]
+# StoicKit v0.0 - WIP
 ---
 ## Todo
 - [ ] Complete API Guide
@@ -82,11 +82,11 @@ Why Randomize?, (Improved Music Based Harmony Search): **[NITW](https://zenodo.o
 
 An iteration is made up of every combination of indicators where the default indicators do not change. At a max of 6 total indicators used per cycle of predictions. So that's 2 indicators picked from the pool available.
 
-**Node Link Diagram:**
-Of each of these cycles the best and most accurate prediction of the iteration event, is chosen to be displayed in the node-link diagram. Each of these node link's can account for 1 iteration of every combination exactly once. This results in a total of around ~20 cycles per iteration with our current set of indicators to pick from. ***So if there are 9 node-link diagrams we have run 9 iterations with a total of 180 cycles***.
+**Node Link Diagram:** `Outdated`
+>Of each of these cycles the best and most accurate prediction of the iteration event, is chosen to be displayed in the node-link diagram. Each of these node link's can account for 1 iteration of every combination exactly once. This results in a total of around ~20 cycles per iteration with our current set of indicators to pick from. ***So if there are 9 node-link diagrams we have run 9 iterations with a total of 180 cycles***.
 
-**Scatter Plot:**
-Each individual cycle is plotted, with their prediction outcome and a visual line of the actual price to compare with. Showing a detailed overview of the indicators paired and the days chosen along with it. 
+**Scatter Plot:** `Outdated`
+>Each individual cycle is plotted, with their prediction outcome and a visual line of the actual price to compare with. Showing a detailed overview of the indicators paired and the days chosen along with it. 
 
 This big picture view, will help us identify the machines observations when drawing disctinctinos through it's vectorization of all the data points. There could be a singular answer or everyone can have their own methodology, relevant to their trading habits. For simplicity, we will look at the weights of the points on either side of the green line and discover a potential momentum change of the security. If left of the green line, we can expect a fall in price, or a ***SELL SIGNAL***, and a ***BUY SIGNAL*** if the points are too the right of the green line.
 
@@ -95,7 +95,7 @@ An interactable line graph of the chosen security, to show us a brief historical
 
 ## Research Notes
 
-****“In this paper we focus on a specific machine learning technique known as Support VectorMachines (SVM). Our goal is to use SVM at timetto predict**** whether a given stock’s price is higher or lower on day t+m. “
+***“In this paper we focus on a specific machine learning technique known as Support VectorMachines (SVM). Our goal is to use SVM at timetto predict*** whether a given stock’s price is higher or lower on day t+m. “
 
 https://www.cs.princeton.edu/sites/default/files/uploads/saahil_madge.pdf
 
@@ -126,13 +126,13 @@ Specifically Section 4 has great detail on parameters used for the Radial Basis 
 
 ---
 
-****Paper on Technical Indicator Usage in Market Prediction****
+***Paper on Technical Indicator Usage in Market Prediction***
 
 http://www.ajer.org/papers/v5(12)/Z05120207212.pdf
 
 Reports 85% accuracy.
 
-****Great in-depth analysis on Technical Indicator and Price Action decision making.****
+***Great in-depth analysis on Technical Indicator and Price Action decision making.***
 
 https://core.ac.uk/download/pdf/52104888.pdf
 
