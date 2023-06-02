@@ -15,7 +15,7 @@ This Kit will not only be an API for time-series manipulation, but introduce a m
 - [Requirements](#requirements)
 - [API](#api)
 - [Hypothesis](#hypothesis)
-- [Research](#research)
+- [Generative Research](#generative-research)
 - [Outdated](#outdated)
 
 ## Goals
@@ -34,7 +34,9 @@ WIP
 
 The major thought behind my theory, is that time-series prediction will most likely never be perfectly accurate. Reaching up to 5-10% error, at least with methods that are publicly researchable. Maybe the gap, is a *missing* *platform* in which daily fine-tuned models are generated constantly by a large community to compare data and then in realtime forecasts are adjusted. A more structured approach to "sentiment/intention".
 
-## Research
+## Generative Research
+> Tooling will be decoupled into this Kit.
+
 Indicators | [Stoch D.](https://www.investopedia.com/articles/technical/073001.asp) | [Stoch K.](https://www.investopedia.com/articles/technical/073001.asp) | [MacD](https://www.investopedia.com/terms/m/macd.asp) | [EWA](https://www.investopedia.com/terms/e/ema.asp) | [SMA](https://www.investopedia.com/terms/s/sma.asp) | [Vol. Change](https://www.investopedia.com/articles/technical/02/091002.asp) | [RSI](https://www.investopedia.com/terms/r/rsi.asp) 
 --- | --- | --- | --- |--- |--- |--- |--- 
 ***[Volatility](https://www.investopedia.com/terms/v/volatility.asp)*** |  |  |  |  |  |  |  
