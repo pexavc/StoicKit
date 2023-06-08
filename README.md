@@ -36,14 +36,14 @@ The major thought behind my theory, is that time-series prediction will most lik
 
 ## Generative Research (Simplified)
 
-| Indicators | https://www.investopedia.com/articles/technical/073001.asp | https://www.investopedia.com/articles/technical/073001.asp | https://www.investopedia.com/terms/m/macd.asp | https://www.investopedia.com/terms/e/ema.asp | https://www.investopedia.com/terms/s/sma.asp | https://www.investopedia.com/articles/technical/02/091002.asp | https://www.investopedia.com/terms/r/rsi.asp |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| https://www.investopedia.com/terms/v/volatility.asp |  |  |  |  |  |  |  |
-| https://www.investopedia.com/terms/m/momentum.asp |  |  |  |  |  |  |  |
-| https://www.investopedia.com/terms/c/change.asp |  |  |  |  |  |  |  |
-| https://www.investopedia.com/terms/v/vwap.asp |  |  |  |  |  |  |  |
+Indicators | [Stoch D.](https://www.investopedia.com/articles/technical/073001.asp) | [Stoch K.](https://www.investopedia.com/articles/technical/073001.asp) | [MacD](https://www.investopedia.com/terms/m/macd.asp) | [EWA](https://www.investopedia.com/terms/e/ema.asp) | [SMA](https://www.investopedia.com/terms/s/sma.asp) | [Vol. Change](https://www.investopedia.com/articles/technical/02/091002.asp) | [RSI](https://www.investopedia.com/terms/r/rsi.asp) 
+--- | --- | --- | --- |--- |--- |--- |--- 
+***[Volatility](https://www.investopedia.com/terms/v/volatility.asp)*** |  |  |  |  |  |  |  
+***[Momentum](https://www.investopedia.com/terms/m/momentum.asp)*** |  |  |  |  |  |  |  |  
+***[Change](https://www.investopedia.com/terms/c/change.asp)*** |  |  |  |  |  |  |  |  
+***[VWA](https://www.investopedia.com/terms/v/vwap.asp)*** |  |  |  |  |  |  |  |  
 
-An easy way to visualize what is happening is by creating a simple table like the table above. The left most side, has indicators that we refer to as the ***Defaults***. These indicators will never change, and are defined as stable pivots that will support the distinctions the machine draws from 2 of the indicators we see on the top most columns.
+An easy way to visualize what is happening is by creating a simple table like above. The left most side, has indicators that we refer to as the ***Defaults***. These indicators will never change, and are defined as stable pivots that will support the distinctions the machine draws from 2 of the indicators we see on the top most columns.
 
 **Citations:** Default Indicators: **[Princeton](https://www.cs.princeton.edu/sites/default/files/uploads/saahil_madge.pdf)**
 
